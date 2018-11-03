@@ -1,4 +1,4 @@
-## Insert Data in mongoDB
+# Insert Data in mongoDB
 
 > Simple example in which you can insert (users) data in monogoDB using Mongoose ODM and Express framework.
 
