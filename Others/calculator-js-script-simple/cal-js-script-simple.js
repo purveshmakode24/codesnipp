@@ -1,4 +1,4 @@
-	// Your html file will be lile this
+	// Your html file will be like this
 
 	// <body>
 	// <input id="num1" type="number" name="num1" placeholder="Enter number 1">
