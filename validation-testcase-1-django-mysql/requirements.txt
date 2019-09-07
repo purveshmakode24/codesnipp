@@ -1,0 +1,17 @@
+certifi==2019.6.16
+chardet==3.0.4
+Click==7.0
+Django==2.2.5
+entrypoints==0.3
+idna==2.8
+jsonconfig-tool==1.5
+keyring==19.1.0
+messages==0.5.0
+mysqlclient==1.4.4
+python-box==3.4.3
+pytz==2019.2
+pywin32-ctypes==0.2.0
+requests==2.22.0
+sqlparse==0.3.0
+urllib3==1.25.3
+validus==0.3.0

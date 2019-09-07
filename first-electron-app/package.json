@@ -1,0 +1,14 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "my first electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Purvesh Makode",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.7"
+  }
+}

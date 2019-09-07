@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% if messages %}
+    <ul class="messages">
+        {% for message in messages %}
+            <li style="color:red">{{ message | linebreaks }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
+<form method="post" action="{% url 'home' %}">
+    {% csrf_token %}
+    <table>
+        <h3>Personal Details:</h3>
+        <tr>
+            <td>Full Name:</td>
+            <td>{{ form.fname }}</td>
+        </tr>
+        <tr>
+            <td>Salary:</td>
+            <td>{{ form.salary }}</td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Submit"></td>
+        </tr>
+    </table>
+</form>
+
+
+<table border="1">
+    <h1>Database Info:</h1>
+    <tr>
+        <td>Name:</td>
+        <td>Salary:</td>
+    </tr>
+    {% for item in info %}
+        <tr>
+            <td>{{ item.f_name }}</td>
+            <td>{{ item.salary }}</td>
+            <td><a href="{% url 'delete' item.pk %}" style="color:lightcoral">x</a></td>
+        </tr>
+    {% endfor %}
+</table>
+
+</body>
+</html>
