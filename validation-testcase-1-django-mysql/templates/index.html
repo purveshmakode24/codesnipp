@@ -19,10 +19,16 @@
         <tr>
             <td>Full Name:</td>
             <td>{{ form.fname }}</td>
+            {% for error in form.fname.errors %}
+            <td><p style="color:lightcoral;">{{ error }}</p></td>
+            {% endfor %}
         </tr>
         <tr>
             <td>Salary:</td>
             <td>{{ form.salary }}</td>
+            {% for error in form.salary.errors %}
+             <td><p style="color:lightcoral;">{{ error }}</p></td>
+            {% endfor %}
         </tr>
         <tr>
             <td><input type="submit" value="Submit"></td>

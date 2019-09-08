@@ -12,18 +12,14 @@ def index(request):
         if form.is_valid():
             fname = form.cleaned_data['fname']
             salary = form.cleaned_data['salary']
-            if not fname:
-                messages.error(request, f'first Name is required')
-
-            if not salary:
-                messages.error(request, f'please enter your salary')
-            # for validation ###
+            print(fname)
+            print(salary)
 
             if fname and salary:
                 db_fn_isqual_to_post_fn = InfoModel.objects.filter(f_name=fname)
                 if db_fn_isqual_to_post_fn:
                     messages.error(request, f'{fname} is already exist')
-                    form = InfoForm(request.POST)
+                    # form = InfoForm(request.POST)
                 # ----------------------#
                 else:
                     addinfo = InfoModel(f_name=fname, salary=salary)
