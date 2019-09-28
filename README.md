@@ -4,6 +4,6 @@
 - Faster and Easier way to beautify your stuff and make things even more user-friendly.
 - For Instructions: Refer `README.md` from various snippets items as per your requirements. 
 - Feel free to contribute to this repository!
------------------------------------------------------------------
+-------------------------------------------------------
 
 
