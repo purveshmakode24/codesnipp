@@ -38,7 +38,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Node.js
 <h2></h2>
 
 ### 4. Django/Python
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/4.%20Django/validation-testcase-1-django-mysql)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/4.%20Django)
 
 * Validation Test Cases
 <h2></h2>
