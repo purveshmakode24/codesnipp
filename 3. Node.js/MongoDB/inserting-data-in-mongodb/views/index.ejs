@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+</head>
+<body>
+<div>
+    <h3><%= head%></h3>
+</div>
+<div class="container">
+    <form action="/insert" method="POST">
+        <table>
+            <tr>
+                <td>Email id</td>
+                <td>
+                    : <input type="email" name="email" required>
+                </td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td>
+                    : <input type="text" name="name" required>
+                </td>
+            </tr>
+            <tr><td>Age</td>
+                <td>
+                    : <input type="Number" name="age" required>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit">submit</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+</body>
+</html>
