@@ -13,3 +13,7 @@ npm install
 npm start
 ```
 - Head over to localhost:3000 in your browser.
+
+
+### For Complete CRUD operations on data using Mongoose:
+-  ['mongoose_crud'](https://github.com/purveshmakode24/mongoose-query-object-ops)
