@@ -29,32 +29,32 @@ If you want to APPLY slide-in elements animation effect to your web page, just f
 * with embedded links
 <h2></h2>
 
-### 2. first-electron-app
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20first-electron-app)
-> Getting started with Electron/Starter 
-<h2></h2>
-
-### 3. Node.js
+### 2. Node.js
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Node.js)
 
+* first-electron-app
+
+  see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20first-electron-app)
+  > Getting started with Electron/Starter 
+  
 * Example: Use mongoDB to perform CRUD
 * MongoDB File Systems
 * MongoDB Upload Files 
 <h2></h2>
 
-### 4. Django/Python
+### 3. Django/Python
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/4.%20Django)
 
 * Validation Test Cases
 <h2></h2>
 
-### 5. Vue
+### 4. Vue
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/5.%20Vue)
 
 * Vuetify Starter using CDN
 <h2></h2>
 
-### 6. Others
+### 5. Others
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/6.%20Others)
 > This includes all other languages related scripts/snippets
 
