@@ -52,3 +52,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/5.%20Vue
 ### 6. Others
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/6.%20Others)
 > This includes all other languages related scripts/snippets
+
+--------------------------------------
+<h2>Refrences</h2>
+> You can refer all the important notes related to all other coding languages [here]
