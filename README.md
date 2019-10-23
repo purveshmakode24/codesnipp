@@ -58,5 +58,5 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/6.%20Others)
 --------------------------------------
 <h1>References</h1>
 
-see [purveshmakode24/gists](#)
+see [purveshmakode24/gists](https://gist.github.com/purveshmakode24)
 > You can refer all the important notes related to all other coding languages
