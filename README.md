@@ -55,4 +55,5 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/6.%20Others)
 
 --------------------------------------
 <h2>Refrences</h2>
-> You can refer all the important notes related to all other coding languages [here]
+see [purveshmakode24/gists](#)
+> You can refer all the important notes related to all other coding languages
