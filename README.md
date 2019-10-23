@@ -1,4 +1,9 @@
 <p align="center" ><a href="https://github.com/purveshmakode24/snippets" target="_blank" rel="noopener noreferrer"><img width="230" src="assets/logo/codesnipp-logo.png" alt="system monitor logo"></a></p>
+
+<p align="center">
+<a href="https://app.codeship.com/projects/370818" target="_blank"><img src="https://app.codeship.com/projects/3a809d00-d787-0137-1a21-42950646b1d0/status?branch=master" alt="Codeship Status"></a>
+</p>  
+
 <h2>All the hacks has been made while working with cool stuff!</h2>
 
 - Here is the source code, small snippets that could go in your project file.
