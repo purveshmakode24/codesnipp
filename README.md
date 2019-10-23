@@ -61,12 +61,12 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/6.%20Others)
 <br>
 
 --------------------------------------
-<h1>References</h1>
+<h2>References</h2>
 
 see [purveshmakode24/gists](https://gist.github.com/purveshmakode24)
 > You can refer all the important notes related to all other coding languages
 
-<h1>Contribution Guidelines</h1>
+<h2>Contribution Guidelines</h2>
 
 #### How to Submit a Code Change:
 
