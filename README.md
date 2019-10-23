@@ -53,6 +53,8 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/5.%20Vue
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/6.%20Others)
 > This includes all other languages related scripts/snippets
 
+<br>
+
 --------------------------------------
 <h1>References</h1>
 
