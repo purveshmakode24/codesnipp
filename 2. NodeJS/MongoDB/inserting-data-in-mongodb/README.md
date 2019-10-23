@@ -16,4 +16,4 @@ npm start
 
 
 ### For Complete CRUD operations on data using Mongoose:
--  ['mongoose_crud'](https://github.com/purveshmakode24/mongoose-query-object-ops)
+-  ['mongoose-query-object-ops[CRUD]'](https://github.com/purveshmakode24/mongoose-query-object-ops)
