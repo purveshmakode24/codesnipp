@@ -34,7 +34,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Node.js
 
 * first-electron-app
 
-  see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20first-electron-app)
+  see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS/first-electron-app)
   > Getting started with Electron/Starter 
   
 * Example: Use mongoDB to perform CRUD
