@@ -29,7 +29,7 @@ If you want to APPLY slide-in elements animation effect to your web page, just f
 * with embedded links
 <h2></h2>
 
-### 2. Node.js
+### 2. NodeJS
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Node.js)
 
 * first-electron-app
