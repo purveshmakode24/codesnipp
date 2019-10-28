@@ -37,7 +37,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Node.js
   see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS/first-electron-app)
   > Getting started with Electron/Starter 
   
-* Example: Use mongoDB to perform CRUD
+* Example: Use MongoDB to perform CRUD
 * MongoDB File Systems
 * MongoDB Upload Files 
 <h2></h2>
