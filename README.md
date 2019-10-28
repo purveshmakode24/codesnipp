@@ -49,7 +49,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Django)
 <h2></h2>
 
 ### 4. Vue
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/4.%20Vue)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/4.%20Vue)
 
 * Vuetify Starter using CDN
 <h2></h2>
