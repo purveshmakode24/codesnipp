@@ -43,19 +43,19 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS)
 <h2></h2>
 
 ### 3. Django/Python
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/4.%20Django)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Django)
 
 * Validation Test Cases
 <h2></h2>
 
 ### 4. Vue
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/5.%20Vue)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/developing/4.%20Vue)
 
 * Vuetify Starter using CDN
 <h2></h2>
 
 ### 5. Others
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/6.%20Others)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/5.%20Others)
 > This includes all other languages related scripts/snippets
 
 <br>
