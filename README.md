@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://app.codeship.com/projects/370818" target="_blank"><img src="https://app.codeship.com/projects/3a809d00-d787-0137-1a21-42950646b1d0/status?branch=master" alt="Codeship Status"></a>
-[![GitHub contributors](https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green)]()  
+<a href="#"><img src="https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green"></a> 
 </p>  
 
 <h2>All the hacks has been made while working with cool stuff!</h2>
