@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://app.codeship.com/projects/370818" target="_blank"><img src="https://app.codeship.com/projects/3a809d00-d787-0137-1a21-42950646b1d0/status?branch=master" alt="Codeship Status"></a>
-<a href="#"><img src="https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green"></a>
+<a href="https://github.com/purveshmakode24/Codesnipp/graphs/contributors"><img src="https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green"></a>
 <a href="#"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>  
 </p>  
 
