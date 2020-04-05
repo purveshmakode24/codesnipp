@@ -1,7 +1,7 @@
 certifi==2019.6.16
 chardet==3.0.4
 Click==7.0
-Django==2.2.8
+Django==2.2.10
 entrypoints==0.3
 idna==2.8
 jsonconfig-tool==1.5
