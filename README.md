@@ -84,4 +84,3 @@ see [purveshmakode24/gists](https://gist.github.com/purveshmakode24)
            - It should include the "what" and "why" of this commit.
  4) Submit a pull request.
      - PRs should be short enough to review in 30 minutes.
-     - A template will guide you through the process when you create a PR.
