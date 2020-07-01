@@ -49,7 +49,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
   see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS/first-electron-app)
   > Getting started with Electron/Starter 
   
-* Example: Use MongoDB to perform CRUD
+* Example: Use MongoDB to perform CRUD operations
 * MongoDB File Systems
 * MongoDB Upload Files 
 <h2></h2>
