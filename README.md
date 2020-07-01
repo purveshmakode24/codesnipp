@@ -42,7 +42,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
 ## 2. Backend
 
 ### 2.1 NodeJS
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS)
 
 * first-electron-app
 
