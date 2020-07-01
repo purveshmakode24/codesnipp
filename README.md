@@ -55,9 +55,9 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 <h2></h2>
 
 ### 2.2. Django/Python
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Django)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.2.%20Django/validation-testcase-1-django-mysql)
 
-* Validation Test Cases
+* Validation Test Cases (with django-mySQL stack)
 
 
 ## 3. Others
