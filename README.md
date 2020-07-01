@@ -77,13 +77,9 @@ see [purveshmakode24/gists](https://gist.github.com/purveshmakode24)
 
 1) Fork the repository.
 2) Create a branch solely for the changes you are making.
-        - This will be your "feature" branch.
+     - This will be your "feature" branch.
 3) Commit your changes to this "feature" branch you created.
-      - Do not change so much that your code cannot be reviewed in under 30 minutes.
-        For commits:
-           - The title should be less than 51 characters.
-           - The commit should have a concise, explanatory body.
-           - It should wrap at 70 characters.
-           - It should include the "what" and "why" of this commit.
- 4) Submit a pull request.
+4) Submit a pull request.
      - PRs should be short enough to review in 30 minutes.
+     
+>If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started.
