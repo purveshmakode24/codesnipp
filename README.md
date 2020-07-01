@@ -14,7 +14,9 @@
 - Feel free to contribute to this repository!
 -----------------------------------------------------
 
-### 1. Bootstrap
+## 1. Front-End
+ 
+### 1.1 Bootstrap
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Bootstrap)
 
 > #### Slidein-elements-scrolling-animation.
@@ -31,7 +33,15 @@ If you want to APPLY slide-in elements animation effect to your web page, just f
 * with embedded links
 <h2></h2>
 
-### 2. NodeJS
+### 1.2. Vue
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/4.%20Vue)
+
+* Vuetify Starter using CDN
+<h2></h2>
+
+## 2. Backend
+
+### 2.1 NodeJS
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS)
 
 * first-electron-app
@@ -44,19 +54,14 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS)
 * MongoDB Upload Files 
 <h2></h2>
 
-### 3. Django/Python
+### 2.2. Django/Python
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Django)
 
 * Validation Test Cases
 <h2></h2>
 
-### 4. Vue
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/4.%20Vue)
 
-* Vuetify Starter using CDN
-<h2></h2>
-
-### 5. Others
+## 3. Others
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/5.%20Others)
 > This includes all other languages related scripts/snippets
 
