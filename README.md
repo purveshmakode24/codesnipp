@@ -17,7 +17,7 @@
 ## 1. Front-End
  
 ### 1.1 Bootstrap
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Bootstrap)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.1.%20Bootstrap)
 
 > #### Slidein-elements-scrolling-animation.
 
