@@ -34,7 +34,7 @@ If you want to APPLY slide-in elements animation effect to your web page, just f
 <h2></h2>
 
 ### 1.2. Vue
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/4.%20Vue)
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.2.%20Vue/Vuetify%20Starter%20using%20CDN)
 
 * Vuetify Starter using CDN
 
