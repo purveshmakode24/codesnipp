@@ -57,7 +57,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 ### 2.2. Django/Python
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.2.%20Django/validation-testcase-1-django-mysql)
 
-* Validation Test Cases (with django-mySQL stack)
+* Validation Test Cases (with django-mySQL stack) [Includes implementation of django form custom validation with custom errors]
 
 
 ## 3. Others
