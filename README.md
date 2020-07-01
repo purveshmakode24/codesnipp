@@ -37,7 +37,7 @@ If you want to APPLY slide-in elements animation effect to your web page, just f
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/4.%20Vue)
 
 * Vuetify Starter using CDN
-<h2></h2>
+
 
 ## 2. Backend
 
@@ -58,13 +58,11 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS)
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Django)
 
 * Validation Test Cases
-<h2></h2>
 
 
 ## 3. Others
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/5.%20Others)
 > This includes all other languages related scripts/snippets
-
 <br>
 
 --------------------------------------
