@@ -46,7 +46,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 
 * first-electron-app
 
-  see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20NodeJS/first-electron-app)
+  see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS/first-electron-app)
   > Getting started with Electron/Starter 
   
 * Example: Use MongoDB to perform CRUD operations
