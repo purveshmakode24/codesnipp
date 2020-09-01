@@ -14,7 +14,7 @@
 - Feel free to contribute to this repository!
 -----------------------------------------------------
 
-## 1. Front-End
+## 1. Client
  
 ### 1.1 Bootstrap
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.1.%20Bootstrap)
@@ -39,7 +39,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
 * Vuetify Starter using CDN
 
 
-## 2. Backend
+## 2. Server
 
 ### 2.1 NodeJS
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS)
