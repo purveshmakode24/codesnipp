@@ -68,8 +68,8 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Others)
 --------------------------------------
 <h2>References</h2>
 
-see [purveshmakode24/gists](https://gist.github.com/purveshmakode24)
-> You can refer all the important notes regarding programming languages
+see [purveshmakode24/gists](https://github.com/purveshmakode24/git-inst)
+> You can refer all the important notes regarding tech stuff
 
 <h2>Contribution Guidelines</h2>
 
