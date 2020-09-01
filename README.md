@@ -28,9 +28,9 @@ If you want to APPLY slide-in elements animation effect to your web page, just f
 
 > #### Starter Bootstrap Template
 
-* template-with-library-files
-* custom
-* with embedded links
+* Template with library files
+* Custom
+* With embedded links
 <h2></h2>
 
 ### 1.2. Vue
