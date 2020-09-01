@@ -6,7 +6,7 @@
 <a href="https://github.com/purveshmakode24/Codesnipp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>  
 </p>  
 
-<h2>All the hacks has been made while working with cool stuff!</h2>
+<h2>All the hacks were made while working with cool stuff!</h2>
 
 - Here is the source code, snippets that could go in your project file.
 - Faster and Easier way to beautify your stuff and make things even more user-friendly.
@@ -28,9 +28,9 @@ If you want to APPLY slide-in elements animation effect to your web page, just f
 
 > #### Starter Bootstrap Template
 
-* template-with-library-files
-* custom
-* with embedded links
+* Template with library files
+* Custom
+* With embedded links
 <h2></h2>
 
 ### 1.2. Vue
@@ -44,7 +44,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
 ### 2.1 NodeJS
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS)
 
-* first-electron-app
+* First-Electron-App
 
   see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS/first-electron-app)
   > Getting started with Electron/Starter 
@@ -57,7 +57,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 ### 2.2. Django/Python
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.2.%20Django)
 
-* Validation Test Cases (with django-mySQL stack) [Includes implementation of django form custom validation with custom errors]
+* Validation Test Cases (with django-mySQL stack) [Includes implementation of django forms custom validation with custom errors]
 
 
 ## 3. Others
