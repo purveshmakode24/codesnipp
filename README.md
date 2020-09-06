@@ -62,7 +62,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 
 ## 3. Others
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Others)
-> This includes all other languages related scripts/snippets
+> This includes all other languages related snippets
 <br>
 
 --------------------------------------
