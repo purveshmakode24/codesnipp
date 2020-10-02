@@ -41,16 +41,14 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
 ## 2. Backend/Server
 
 ### 2.1 NodeJS
+
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS)
 
-* First-Electron-App
-
-  see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS/first-electron-app)
-  > Getting started with Electron/Starter 
-  
+* First-Electron-App (starter app)  
 * Example: Use MongoDB to perform CRUD operations
 * MongoDB File Systems
 * MongoDB Upload Files 
+
 <h2></h2>
 
 ### 2.2. Django/Python
