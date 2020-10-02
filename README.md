@@ -78,4 +78,4 @@ see [purveshmakode24/gists](https://github.com/purveshmakode24/git-inst)
 
 <h2>Contribution Guidelines</h2>
 
-If you're new to contributing to Open Source on Github, please check out this contribution guide for more details on how issues and pull requests work.
+If you're new to contributing to Open Source on Github, please check out [this contribution guide](https://opensource.guide/how-to-contribute/) for more details on how issues and pull requests work.
