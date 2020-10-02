@@ -20,7 +20,7 @@
 
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.1.%20Bootstrap)
 
-- [Slidein Elements Scrolling Animation](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.1.%20Bootstrap/Slidein-elements-scrolling-animation)
+- Slidein Elements Scrolling Animation
 
 - Starter Bootstrap Template
 
