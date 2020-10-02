@@ -1,7 +1,7 @@
 <p align="center" ><a href="https://github.com/purveshmakode24/snippets" target="_blank" rel="noopener noreferrer"><img width="230" src="assets/logo/codesnipp-logo.png" alt="system monitor logo"></a></p>
 
 <p align="center">
-<a href="https://app.codeship.com/projects/370818" target="_blank"><img src="https://app.codeship.com/projects/3a809d00-d787-0137-1a21-42950646b1d0/status?branch=master" alt="Codeship Status"></a>
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/purveshmakode24/codesnipp?label=Languages">
 <a href="https://github.com/purveshmakode24/Codesnipp/graphs/contributors"><img src="https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green"></a>
 <a href="https://github.com/purveshmakode24/Codesnipp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>  
 </p>  
