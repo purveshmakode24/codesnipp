@@ -1,9 +1,10 @@
 <p align="center" ><a href="https://github.com/purveshmakode24/snippets" target="_blank" rel="noopener noreferrer"><img width="230" src="assets/logo/codesnipp-logo.png" alt="system monitor logo"></a></p>
 
 <p align="center">
-<a href="https://app.codeship.com/projects/370818" target="_blank"><img src="https://app.codeship.com/projects/3a809d00-d787-0137-1a21-42950646b1d0/status?branch=master" alt="Codeship Status"></a>
+ <a href="https://github.com/purveshmakode24/Codesnipp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/purveshmakode24/codesnipp?label=Languages">
 <a href="https://github.com/purveshmakode24/Codesnipp/graphs/contributors"><img src="https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green"></a>
-<a href="https://github.com/purveshmakode24/Codesnipp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>  
+<a href="https://github.com/purveshmakode24/Codesnipp/blob/master/LICENSE"><img src="https://img.shields.io/github/license/purveshmakode24/codesnipp"></a>  
 </p>  
 
 <h2>All the hacks were made while working with cool stuff!</h2>
@@ -40,16 +41,14 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
 ## 2. Backend/Server
 
 ### 2.1 NodeJS
+
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS)
 
-* First-Electron-App
-
-  see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS/first-electron-app)
-  > Getting started with Electron/Starter 
-  
+* First-Electron-App (starter app)  
 * Example: Use MongoDB to perform CRUD operations
 * MongoDB File Systems
 * MongoDB Upload Files 
+
 <h2></h2>
 
 ### 2.2. Django/Python
