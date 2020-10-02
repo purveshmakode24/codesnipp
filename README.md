@@ -12,7 +12,8 @@
 - Faster and Easier way to beautify your stuff and make things even more user-friendly.
 - For instructions: Refer `README.md` from various snippets items as per your requirements. 
 - Feel free to contribute to this repository!
------------------------------------------------------
+
+---
 
 ## 1. Front-End/Client
  
@@ -28,8 +29,6 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
       2. Custom
       3. With embedded links
 
-<h2></h2>
-
 ### 1.2. Vue
 
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.2.%20Vue/Vuetify%20Starter%20using%20CDN)
@@ -40,6 +39,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
 ## 2. Backend/Server
 
 ### 2.1 NodeJS
+
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS)
 
 * First-Electron-App
@@ -50,26 +50,37 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 * Example: Use MongoDB to perform CRUD operations
 * MongoDB File Systems
 * MongoDB Upload Files 
-<h2></h2>
 
 ### 2.2. Django/Python
+
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.2.%20Django)
 
 * Validation Test Cases (with django-mySQL stack) [Includes implementation of django forms custom validation with custom errors]
 
 
 ## 3. Others
-see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Others)
-> This includes all other languages related snippets
-<br>
 
---------------------------------------
+see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/3.%20Others)
+
+> This includes all other languages related snippets
+
+- api-call-from-simple-express-app-using-axios
+- calculator-js-script-simple
+- page-loader
+- shrink-navbar-on-scroll
+- type-writer
+- validate-form
+
+---
+
 <h2>References</h2>
 
 see [purveshmakode24/gists](https://github.com/purveshmakode24/git-inst)
+
 > You can refer all the important notes regarding tech stuff
 
 <h2>Contribution Guidelines</h2>
+
 
 #### How to Submit a Code Change:
 
