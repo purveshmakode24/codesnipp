@@ -78,13 +78,4 @@ see [purveshmakode24/gists](https://github.com/purveshmakode24/git-inst)
 
 <h2>Contribution Guidelines</h2>
 
-#### How to Submit a Code Change:
-
-1) Fork the repository.
-2) Create a branch solely for the changes you are making.
-     - This will be your "feature" branch.
-3) Commit your changes to this "feature" branch you created.
-4) Submit a pull request.
-     - PRs should be short enough to review in 30 minutes.
-     
->If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started.
+If you're new to contributing to Open Source on Github, please check out [this contribution guide](https://opensource.guide/how-to-contribute/) for more details on how issues and pull requests work.
