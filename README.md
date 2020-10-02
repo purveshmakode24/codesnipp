@@ -17,27 +17,24 @@
 ## 1. Front-End/Client
  
 ### 1.1 Bootstrap
+
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.1.%20Bootstrap)
 
-> #### Slidein-elements-scrolling-animation.
+- Slidein Elements Scrolling Animation
 
-If you want to APPLY slide-in elements animation effect to your web page, just follow the following steps:
+- Starter Bootstrap Template
 
-a. Add the `.slideanim` class to the element you want to slide in, 
+      1. Template with library files
+      2. Custom
+      3. With embedded links
 
-b. Add the following files to your CSS and jQuery. 
-
-> #### Starter Bootstrap Template
-
-* Template with library files
-* Custom
-* With embedded links
 <h2></h2>
 
 ### 1.2. Vue
+
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.2.%20Vue/Vuetify%20Starter%20using%20CDN)
 
-* Vuetify Starter using CDN
+- Vuetify Starter using CDN
 
 
 ## 2. Backend/Server
