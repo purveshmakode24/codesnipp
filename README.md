@@ -1,13 +1,11 @@
 <p align="center" ><a href="https://github.com/purveshmakode24/snippets" target="_blank" rel="noopener noreferrer"><img width="230" src="assets/logo/codesnipp-logo.png" alt="system monitor logo"></a></p>
 
 <p align="center">
- 
-[![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/purveshmakode24/Codesnipp)
-![Github Language Count](https://img.shields.io/github/languages/count/purveshmakode24/codesnipp?label=languages)
-[![Contributors](https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green)](https://github.com/purveshmakode24/Codesnipp/graphs/contributors)
-[![HitCount](http://hits.dwyl.com/purveshmakode24/Codesnipp.svg)](http://hits.dwyl.com/purveshmakode24/Codesnipp)
-[![License](https://img.shields.io/github/license/purveshmakode24/codesnipp)](https://github.com/purveshmakode24/Codesnipp/blob/master/LICENSE)
-
+<a href="https://github.com/purveshmakode24/Codesnipp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 	
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/purveshmakode24/codesnipp?label=languages&style=flat-square">	
+<a href="https://github.com/purveshmakode24/Codesnipp/graphs/contributors"><img src="https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green&style=flat-square"></a>
+<a href="http://hits.dwyl.com/purveshmakode24/Codesnipp"><img src="http://hits.dwyl.com/purveshmakode24/Codesnipp.svg"></a> 
+<a href="https://github.com/purveshmakode24/Codesnipp/blob/master/LICENSE"><img src="https://img.shields.io/github/license/purveshmakode24/codesnipp?style=flat-square"></a>  
 </p>  
 
 <h2>All the hacks were made while working with cool stuff!</h2>
