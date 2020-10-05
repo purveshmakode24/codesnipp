@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/purveshmakode24/Codesnipp"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/purveshmakode24/codesnipp?label=Languages">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/purveshmakode24/codesnipp?label=languages">
 <a href="https://github.com/purveshmakode24/Codesnipp/graphs/contributors"><img src="https://img.shields.io/github/contributors/purveshmakode24/Codesnipp?color=green"></a>
 <a href="https://github.com/purveshmakode24/Codesnipp/blob/master/LICENSE"><img src="https://img.shields.io/github/license/purveshmakode24/codesnipp"></a>  
 </p>  
