@@ -17,9 +17,9 @@
 
 ---
 
-## 1. Front-End/Client
+## 1. Front-End/Client-Side
  
-### 1.1 Bootstrap
+#### 1.1 Bootstrap
 
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.1.%20Bootstrap)
 
@@ -31,16 +31,16 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
       2. Custom
       3. With embedded links
 
-### 1.2. Vue
+#### 1.2. Vue
 
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Frontend/1.2.%20Vue/Vuetify%20Starter%20using%20CDN)
 
 - Vuetify Starter using CDN
 
 
-## 2. Backend/Server
+## 2. Backend/Server-Side
 
-### 2.1 NodeJS
+#### 2.1 NodeJS
 
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.1.%20NodeJS)
 
@@ -49,7 +49,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 * MongoDB File Systems
 * MongoDB Upload Files
 
-### 2.2. Django/Python
+#### 2.2. Django/Python
 
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.2.%20Django)
 
