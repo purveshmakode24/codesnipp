@@ -17,7 +17,7 @@
 
 ---
 
-## 1. Front-End/Client-Side
+## 1. Front-End/Client-Side Snippets
  
 #### 1.1 Bootstrap
 
@@ -38,7 +38,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/1.%20Fronten
 - Vuetify Starter using CDN
 
 
-## 2. Backend/Server-Side
+## 2. Backend/Server-Side Snippets
 
 #### 2.1 NodeJS
 
