@@ -17,6 +17,7 @@
 
 ---
 
+
 ## 1. Front-End/Client-Side Snippets
  
 #### 1.1 Bootstrap
@@ -53,7 +54,7 @@ see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend
 
 see [here](https://github.com/purveshmakode24/Codesnipp/tree/master/2.%20Backend/2.2.%20Django)
 
-- Validation Test Cases (with django-mySQL stack) [Includes implementation of django forms custom validation with custom errors]
+- Validation Test Cases (with Django-mySQL stack) [Includes implementation of django forms custom validation with custom errors]
 
 
 ## 3. Others
