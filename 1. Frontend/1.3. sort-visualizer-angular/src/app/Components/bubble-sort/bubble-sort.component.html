@@ -1,0 +1,9 @@
+<h2>Bubble Sort Visualization</h2>
+
+<p-chart #chart type="bar" [data]="basicData" [options]="basicOptions"></p-chart>
+
+<button *ngIf="!is_sorted" [disabled]="running" (click)="play()" [innerText]="!running?'Play':'Sorting...'"></button>
+
+<button (click)="running?stop():reset()" [innerText]="running?'Stop':'Reset'"></button> <br/>
+
+Speed (in secs): <input type="float" [(ngModel)]="speed"/>
