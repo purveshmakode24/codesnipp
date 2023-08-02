@@ -6,7 +6,7 @@ jwt = JWT()
 # Get the current local time
 current_time = datetime.now()
 
-# Set the expiration time to 5 minute from the current local time
+# Set the expiration time to 5 minutes from the current local time
 expiration_time = current_time + timedelta(minutes=5)
 
 # Convert the expiration time to a Unix timestamp
